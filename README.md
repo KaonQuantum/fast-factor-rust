@@ -8,7 +8,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-fast-factor = "0.1.3"
+fast-factor = "0.1.4"
 ```
 
 ## Functions

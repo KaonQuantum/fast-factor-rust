@@ -1,10 +1,11 @@
 [package]
 name = "fast-factor"
-version = "0.1.3"
+version = "0.1.4"
 authors = ["BlobDieKatze"]
 edition = "2024"
-description = "A crate with relatively fast functions for factoring unsigned integers"
+description = "Fast functions for factoring unsigned integers"
 license = "MIT"
+repository = "https://github.com/KaonQuantum/fast-factor-rust"
 homepage = "https://crates.io/crates/fast-factor"
 documentation = "https://docs.rs/fast-factor"
 keywords = ["math", "factorization", "number-theory", "prime", "primes"]
