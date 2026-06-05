@@ -1,4 +1,4 @@
-//! A reasonably fast factorisation library for unsigned integers.
+//! A fast factorisation library for unsigned integers.
 //!
 //! # Examples
 //!
